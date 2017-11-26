@@ -15,7 +15,7 @@ public class LoginMenu implements MenuInterface {
     public   void showUsers() {
 
         for (User user : userList) {
-            System.out.println(String.format("User: %s,%s,", user.getLogin(), user.getRole().getRoleName()));
+            System.out.println(String.format("User: %s,%s,", user.getLogin(), user.getRole().getRoleUser()));
 
         }
     }
