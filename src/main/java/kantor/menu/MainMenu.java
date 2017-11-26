@@ -1,8 +1,10 @@
-package kantor;
+package kantor.menu;
+
+import kantor.MenuInterface;
 
 import java.util.Scanner;
 
-public class MainMenu implements MenuInterface{
+public class MainMenu implements MenuInterface {
 
     public void display() {
         System.out.println("=====================");

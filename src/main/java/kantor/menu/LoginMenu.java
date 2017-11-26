@@ -1,4 +1,6 @@
-package kantor;
+package kantor.menu;
+
+import kantor.MenuInterface;
 
 import java.util.Scanner;
 
