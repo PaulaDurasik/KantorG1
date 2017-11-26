@@ -1,5 +1,8 @@
 package kantor;
 
+
+
+
 import kantor.menu.MainMenu;
 
 public class Menu {
@@ -27,6 +30,10 @@ public class Menu {
     }
 
 
+    public void display(AllOptions loginMenu) {
+        System.out.println("Login");
+
+    }
     public void setChoose(AllOptions choose) {
         this.choose = choose;
     }
