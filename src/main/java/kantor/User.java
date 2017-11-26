@@ -1,3 +1,6 @@
+package kantor;
+import kantor.Role;
+
 public class User {
 
     String login;
