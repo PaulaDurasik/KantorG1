@@ -8,6 +8,8 @@ public class User {
 
     Role role;
 
+    public User(){}
+
     public User(String login, String pass, Role role) {
         this.login = login;
         this.pass = pass;
@@ -25,4 +27,12 @@ public class User {
     public Role getRole() {
         return role;
     }
+
+
+
+
+
+
+
+
 }

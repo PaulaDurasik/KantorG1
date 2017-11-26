@@ -1,4 +1,4 @@
-package kantor;
+package kantor.menu;
 
 import java.util.Scanner;
 
@@ -15,16 +15,13 @@ public class CurrencyMenu implements MenuInterface {
         System.out.println("1 - Podaj aktualny kurs walut");
         System.out.println("Exit - wróć do menu głównego");
 
-        menuChoose();
-
     }
 
     private void menuChoose(){
 
+
         Scanner scanner = new Scanner(System.in);
         String wybor = scanner.nextLine();
-
-
 
         while (true) {
 

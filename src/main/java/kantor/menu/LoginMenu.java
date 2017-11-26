@@ -1,4 +1,7 @@
-package kantor;
+package kantor.menu;
+
+import kantor.Role;
+import kantor.User;
 
 import java.util.ArrayList;
 import java.util.List;
