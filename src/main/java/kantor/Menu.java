@@ -1,14 +1,16 @@
-import menu.MainMenu;
+package kantor;
 
 public class Menu {
-    public AllOptions getChoose() {
-        return choose;
-    }
+
+    
 
     AllOptions choose;
 
     public static Menu instance=null;
 
+    public AllOptions getChoose() {
+        return choose;
+    }
 
     public static Menu getInstance(){
         if (instance==null){
