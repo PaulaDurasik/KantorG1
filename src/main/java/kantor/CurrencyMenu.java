@@ -1,19 +1,18 @@
-package menu;
+package kantor;
 
 import java.util.Scanner;
 
-public class LoginMenu implements MenuInterface {
+public class CurrencyMenu implements MenuInterface {
 
     public void display() {
 
 
-
         System.out.println("=====================");
-        System.out.println("  Strona logowania: ");
+        System.out.println("    Kursy walut: ");
         System.out.println("=====================");
 
         System.out.println("\nWybierz jedną z opcji:");
-        System.out.println("L - zaloguj do systemu");
+        System.out.println("1 - Podaj aktualny kurs walut");
         System.out.println("Exit - wróć do menu głównego");
 
         menuChoose();
@@ -25,11 +24,13 @@ public class LoginMenu implements MenuInterface {
         Scanner scanner = new Scanner(System.in);
         String wybor = scanner.nextLine();
 
+
+
         while (true) {
 
-            if ("L".equals(wybor)) {
+            if ("1".equals(wybor)) {
 
-                System.out.println("Wybrałeś stronę logowania:");
+                System.out.println("Wybrałeś stronę kursów walut:");
             } else
 
             if ("Exit".equals(wybor)) {

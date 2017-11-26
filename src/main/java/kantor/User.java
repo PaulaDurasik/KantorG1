@@ -1,3 +1,5 @@
+package kantor;
+
 public class User {
 
     String login;

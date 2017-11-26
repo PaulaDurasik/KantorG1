@@ -1,3 +1,7 @@
+package kantor;
+
+import kantor.AllOptions;
+
 public class Menu {
     public static Menu instance=null;
 
@@ -10,7 +14,7 @@ public class Menu {
 
     }
 
-    public void display(){
+    public void display(AllOptions loginMenu){
         System.out.println("Login");
 
     }
