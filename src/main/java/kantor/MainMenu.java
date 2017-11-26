@@ -1,8 +1,8 @@
-package menu;
+package kantor;
 
 import java.util.Scanner;
 
-public class MainMenu implements MenuInterface{
+public class MainMenu implements MenuInterface {
 
 
 

@@ -1,3 +1,5 @@
+package kantor;
+
 public class Menu {
     public static Menu instance=null;
 
