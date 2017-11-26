@@ -2,7 +2,7 @@ package menu;
 
 import java.util.Scanner;
 
-public class CurrencyMenu implements MenuInterface{
+public class CurrencyMenu implements MenuInterface {
 
     public void display() {
 

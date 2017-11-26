@@ -29,4 +29,7 @@ public class Currency {
     public String toString() {
         return "Currency{" + "DATE=" + DATE + ", RATE=" + RATE + '}';
     }
+    //dodoawania
+    //aktualizacja
+    //lista walut
 }

@@ -1,5 +1,11 @@
+import menu.MenuInterface;
+
+import java.util.Map;
+
 public class Menu {
     public static Menu instance=null;
+    Map<Menu, MenuInterface> allOptions;
+
 
 
     public static Menu getInstance(){
@@ -10,10 +16,15 @@ public class Menu {
 
     }
 
-    public void display(){
-        System.out.println("Login");
+    public void display(AllOptions loginMenu){
+        System.out.println("Podaj Login");
+
 
     }
 
+
+   // mapa opcji,
+    //lista opcji
+    //lista osób
 
 }
