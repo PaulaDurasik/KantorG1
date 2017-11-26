@@ -4,8 +4,6 @@ import java.util.Scanner;
 
 public class MainMenu implements MenuInterface{
 
-
-
     public void display() {
         System.out.println("=====================");
         System.out.println("     Main menu: ");
@@ -28,7 +26,6 @@ public class MainMenu implements MenuInterface{
         while (true){
             System.out.println("Podaj swój wybór: ");
             if ("1".equals(wybor)) {
-
                 System.out.println("Wybrałeś zarządzania kontem");
                 opcja = 1;
                 break;
@@ -49,9 +46,15 @@ public class MainMenu implements MenuInterface{
         }
 
         switch(opcja) {
-            case 1 : break;
-            case 2 : break;
-            case 3 : break;
+            case 1 : LoginMenu loginMenu = new LoginMenu();
+                     loginMenu.display();
+                break;
+            case 2 : CurrencyMenu currencyMenu = new CurrencyMenu();
+                     currencyMenu.display();
+                break;
+            case 3 :
+                System.out.println("Bye! Bye! My Friend :) ");
+                break;
 
         }
 

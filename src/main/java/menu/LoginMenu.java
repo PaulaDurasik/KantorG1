@@ -4,10 +4,9 @@ import java.util.Scanner;
 
 public class LoginMenu implements MenuInterface {
 
+
+
     public void display() {
-
-
-
         System.out.println("=====================");
         System.out.println("  Strona logowania: ");
         System.out.println("=====================");
@@ -28,7 +27,6 @@ public class LoginMenu implements MenuInterface {
         while (true) {
 
             if ("L".equals(wybor)) {
-
                 System.out.println("Wybrałeś stronę logowania:");
             } else
 
@@ -37,4 +35,6 @@ public class LoginMenu implements MenuInterface {
             }
         }
     }
+
+    //private logInToCantor()
 }
