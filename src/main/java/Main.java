@@ -1,5 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-        Menu.getInstance().Display(Login);
+        Menu.getInstance().display(LOGIN);
     }
 }
