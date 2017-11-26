@@ -1,4 +1,12 @@
+import menu.MainMenu;
+
 public class Menu {
+    public AllOptions getChoose() {
+        return choose;
+    }
+
+    AllOptions choose;
+
     public static Menu instance=null;
 
 
@@ -7,12 +15,21 @@ public class Menu {
             instance=new Menu();
         }
         return instance;
-
     }
 
-    public void display(){
-        System.out.println("Login");
+    public void display(User user){
+        //System.out.println("Login");
+        MainMenu mainMenu = new MainMenu();
+        mainMenu.display();
+    }
 
+
+    public void setChoose(AllOptions choose) {
+        this.choose = choose;
+    }
+
+    public static void setInstance(Menu instance) {
+        Menu.instance = instance;
     }
 
 
