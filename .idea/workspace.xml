@@ -20,25 +20,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/kantor/Main.java">
+      <file leaf-file-name="AllOptions.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/kantor/AllOptions.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="15" lean-forward="true" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#126#127#0" expanded="true" />
-                <element signature="e#191#192#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="34">
+              <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AllOptions.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/kantor/AllOptions.java">
+      <file leaf-file-name="Cantor.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/kantor/Cantor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="15" />
+            <state relative-caret-position="34">
+              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -47,20 +43,19 @@
       <file leaf-file-name="Currency.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/kantor/Currency.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="45" lean-forward="true" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
+            <state relative-caret-position="0">
+              <caret line="0" column="15" lean-forward="false" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
               <folding>
-                <marker date="1511703454244" expanded="true" signature="157:216" ph="{...}" />
-                <marker date="1511703454244" expanded="false" signature="243:254" ph=" { " />
-                <marker date="1511703454244" expanded="false" signature="266:272" ph=" }" />
-                <marker date="1511703454244" expanded="false" signature="308:319" ph=" { " />
-                <marker date="1511703454244" expanded="false" signature="336:342" ph=" }" />
-                <marker date="1511703454244" expanded="false" signature="371:382" ph=" { " />
-                <marker date="1511703454244" expanded="false" signature="394:400" ph=" }" />
-                <marker date="1511703454244" expanded="false" signature="438:449" ph=" { " />
-                <marker date="1511703454244" expanded="false" signature="466:472" ph=" }" />
-                <marker date="1511703454244" expanded="false" signature="518:529" ph=" { " />
-                <marker date="1511703454244" expanded="false" signature="590:596" ph=" }" />
+                <marker date="1511704573714" expanded="false" signature="243:254" ph=" { " />
+                <marker date="1511704573714" expanded="false" signature="266:272" ph=" }" />
+                <marker date="1511704573714" expanded="false" signature="308:319" ph=" { " />
+                <marker date="1511704573714" expanded="false" signature="336:342" ph=" }" />
+                <marker date="1511704573714" expanded="false" signature="371:382" ph=" { " />
+                <marker date="1511704573714" expanded="false" signature="394:400" ph=" }" />
+                <marker date="1511704573714" expanded="false" signature="438:449" ph=" { " />
+                <marker date="1511704573714" expanded="false" signature="466:472" ph=" }" />
+                <marker date="1511704573714" expanded="false" signature="518:529" ph=" { " />
+                <marker date="1511704573714" expanded="false" signature="590:596" ph=" }" />
               </folding>
             </state>
           </provider>
@@ -69,11 +64,9 @@
       <file leaf-file-name="MainMenu.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/kantor/MainMenu.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-              <folding>
-                <marker date="1511703454260" expanded="true" signature="1395:1421" ph="{...}" />
-              </folding>
+            <state relative-caret-position="-510">
+              <caret line="14" column="51" lean-forward="false" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -81,20 +74,28 @@
       <file leaf-file-name="CurrencyMenu.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/kantor/CurrencyMenu.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
+            <state relative-caret-position="-357">
               <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-              <folding>
-                <marker date="1511703454244" expanded="true" signature="618:863" ph="{...}" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Menu.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/kantor/Menu.java">
+      <file leaf-file-name="LoginMenu.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/kantor/LoginMenu.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="663">
+              <caret line="39" column="1" lean-forward="true" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/kantor/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -103,18 +104,24 @@
       <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/kantor/User.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-119">
-              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-              <folding>
-                <marker date="1511703454277" expanded="false" signature="287:293" ph=" }" />
-                <marker date="1511703454277" expanded="false" signature="345:351" ph=" }" />
-                <marker date="1511703454277" expanded="false" signature="401:407" ph=" }" />
-              </folding>
+            <state relative-caret-position="281">
+              <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MenuInterface.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Role.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/kantor/Role.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="12" lean-forward="false" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MenuInterface.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/kantor/MenuInterface.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
@@ -150,7 +157,6 @@
         <option value="$PROJECT_DIR$/src/main/java/AllOptions.java" />
         <option value="$PROJECT_DIR$/src/main/java/kantor/CurrencyMenu.java" />
         <option value="$PROJECT_DIR$/src/main/java/kantor/LoginMenu.java" />
-        <option value="$PROJECT_DIR$/src/main/java/kantor/MainMenu.java" />
         <option value="$PROJECT_DIR$/src/main/java/kantor/MenuInterface.java" />
         <option value="$PROJECT_DIR$/src/main/java/kantor/AllOptions.java" />
         <option value="$PROJECT_DIR$/src/main/java/Currency.java" />
@@ -158,10 +164,12 @@
         <option value="$PROJECT_DIR$/src/main/java/Menu.java" />
         <option value="$PROJECT_DIR$/src/main/java/Role.java" />
         <option value="$PROJECT_DIR$/src/main/java/User.java" />
-        <option value="$PROJECT_DIR$/src/main/java/kantor/Currency.java" />
-        <option value="$PROJECT_DIR$/src/main/java/kantor/User.java" />
-        <option value="$PROJECT_DIR$/src/main/java/kantor/Menu.java" />
         <option value="$PROJECT_DIR$/src/main/java/kantor/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kantor/MainMenu.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kantor/Menu.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kantor/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kantor/Role.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kantor/Currency.java" />
       </list>
     </option>
   </component>
@@ -430,11 +438,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="39" lean-forward="false" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#126#127#0" expanded="true" />
-            <element signature="e#191#192#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -473,11 +477,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="39" lean-forward="false" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#126#127#0" expanded="true" />
-            <element signature="e#191#192#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -501,11 +501,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="8" lean-forward="false" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#126#127#0" expanded="true" />
-            <element signature="e#191#192#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -532,67 +528,94 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/kantor/Role.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/kantor/Menu.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="10" lean-forward="true" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
+        <state relative-caret-position="51">
+          <caret line="3" column="9" lean-forward="false" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/kantor/LoginMenu.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/kantor/MainMenu.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="-510">
+          <caret line="14" column="51" lean-forward="false" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/kantor/AllOptions.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/kantor/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="15" />
+        <state relative-caret-position="34">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kantor/Cantor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/kantor/Currency.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="45" lean-forward="true" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
+        <state relative-caret-position="0">
+          <caret line="0" column="15" lean-forward="false" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
           <folding>
-            <marker date="1511703454244" expanded="true" signature="157:216" ph="{...}" />
-            <marker date="1511703454244" expanded="false" signature="243:254" ph=" { " />
-            <marker date="1511703454244" expanded="false" signature="266:272" ph=" }" />
-            <marker date="1511703454244" expanded="false" signature="308:319" ph=" { " />
-            <marker date="1511703454244" expanded="false" signature="336:342" ph=" }" />
-            <marker date="1511703454244" expanded="false" signature="371:382" ph=" { " />
-            <marker date="1511703454244" expanded="false" signature="394:400" ph=" }" />
-            <marker date="1511703454244" expanded="false" signature="438:449" ph=" { " />
-            <marker date="1511703454244" expanded="false" signature="466:472" ph=" }" />
-            <marker date="1511703454244" expanded="false" signature="518:529" ph=" { " />
-            <marker date="1511703454244" expanded="false" signature="590:596" ph=" }" />
+            <marker date="1511704573714" expanded="false" signature="243:254" ph=" { " />
+            <marker date="1511704573714" expanded="false" signature="266:272" ph=" }" />
+            <marker date="1511704573714" expanded="false" signature="308:319" ph=" { " />
+            <marker date="1511704573714" expanded="false" signature="336:342" ph=" }" />
+            <marker date="1511704573714" expanded="false" signature="371:382" ph=" { " />
+            <marker date="1511704573714" expanded="false" signature="394:400" ph=" }" />
+            <marker date="1511704573714" expanded="false" signature="438:449" ph=" { " />
+            <marker date="1511704573714" expanded="false" signature="466:472" ph=" }" />
+            <marker date="1511704573714" expanded="false" signature="518:529" ph=" { " />
+            <marker date="1511704573714" expanded="false" signature="590:596" ph=" }" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/kantor/MainMenu.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/kantor/AllOptions.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding>
-            <marker date="1511703454260" expanded="true" signature="1395:1421" ph="{...}" />
-          </folding>
+        <state relative-caret-position="34">
+          <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/kantor/CurrencyMenu.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
+        <state relative-caret-position="-357">
           <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding>
-            <marker date="1511703454244" expanded="true" signature="618:863" ph="{...}" />
-          </folding>
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kantor/LoginMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" column="1" lean-forward="true" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kantor/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kantor/Role.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="12" lean-forward="false" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -601,38 +624,6 @@
         <state relative-caret-position="34">
           <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/kantor/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-119">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding>
-            <marker date="1511703454277" expanded="false" signature="287:293" ph=" }" />
-            <marker date="1511703454277" expanded="false" signature="345:351" ph=" }" />
-            <marker date="1511703454277" expanded="false" signature="401:407" ph=" }" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/kantor/Menu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/kantor/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="15" lean-forward="true" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#126#127#0" expanded="true" />
-            <element signature="e#191#192#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
