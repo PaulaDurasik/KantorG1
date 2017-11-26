@@ -1,8 +1,10 @@
-package kantor;
+package kantor.menu;
+
+import kantor.MenuInterface;
 
 import java.util.Scanner;
 
-public class CurrencyMenu implements MenuInterface{
+public class CurrencyMenu implements MenuInterface {
 
     public void display() {
 

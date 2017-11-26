@@ -1,8 +1,10 @@
 package kantor;
 
+import kantor.menu.MainMenu;
+
 public class Menu {
 
-    
+
 
     AllOptions choose;
 
