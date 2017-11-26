@@ -1,3 +1,4 @@
+package kantor;
 import java.util.Date;
 
 public class Currency {
@@ -25,11 +26,11 @@ public class Currency {
         this.RATE = RATE;
     }
 
+
+
     @Override
     public String toString() {
         return "Currency{" + "DATE=" + DATE + ", RATE=" + RATE + '}';
     }
-    //dodoawania
-    //aktualizacja
-    //lista walut
+
 }

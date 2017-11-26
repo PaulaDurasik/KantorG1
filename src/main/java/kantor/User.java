@@ -1,3 +1,4 @@
+package kantor;
 public class User {
 
     String login;
@@ -11,6 +12,8 @@ public class User {
         this.pass = pass;
         this.role = role;
     }
+
+
 
     public String getLogin() {
         return login;
