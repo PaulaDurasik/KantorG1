@@ -1,5 +1,4 @@
 package kantor;
-import kantor.Role;
 
 public class User {
 
@@ -8,6 +7,8 @@ public class User {
     String pass;
 
     Role role;
+
+    public User(){}
 
     public User(String login, String pass, Role role) {
         this.login = login;
@@ -26,4 +27,12 @@ public class User {
     public Role getRole() {
         return role;
     }
+
+
+
+
+
+
+
+
 }
